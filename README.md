@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado no meu canal
+    Sou Desenvolvedor Front End!
   </p>
   
 </div>
@@ -27,7 +27,7 @@
 </div><br>
 
 <div align="center">
-  <a href="https://www.https://www.linkedin.com/in/jesse-fran%C3%A7a-6a0070128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jesse-fran%C3%A7a-6a0070128/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:jesseluis09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
