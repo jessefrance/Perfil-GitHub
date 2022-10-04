@@ -33,7 +33,7 @@
 
 <div align="center">
 
-  ![Snake animation]( https://github.com/jessefrance/Perfil-GitHub/blob/main/.github/workflows/snake.yml)
+  ![Snake animation]( https://github.com/jessefrance/Perfil-GitHub/blob/output/github-contribution-grid-snake.svg)
                     
 </div>
 
