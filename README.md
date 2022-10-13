@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End!
+    Sou Desenvolvedor Front-End Jr!
   </p>
   
 </div>
